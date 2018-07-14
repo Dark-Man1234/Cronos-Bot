@@ -1,0 +1,15 @@
+{
+    "name": "Cronos-Bot",
+    "version": "1.0.0",
+    "description": "Bot perso de la communauté",
+    "main": "index.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "author": "Dark-Man",
+    "licence": "ISC",
+    "dependencies": {
+        "discord.js": "^11.2.1"
+    }
+}
+
